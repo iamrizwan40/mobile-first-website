@@ -1,8 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap');
-
-html, body{
-    scroll-behavior: smooth;
-}
 body{
     font-family: 'Roboto Condensed', sans-serif;
     height: auto;
